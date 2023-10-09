@@ -2,6 +2,6 @@
 track bigBed
 bigDataUrl https://github.com/akkellogg/my_test_ucsc_trackhub/raw/main/hg19/clingen_cnv/ClinGen_Recurrent_CNV.bigBed
 shortLabel ClinGen Recurrent CNVs
-longLabel ClinGene Recurrent CNV in bigBed format
+longLabel ClinGen Recurrent CNV in bigBed format
 type bigBed
 itemRgb on
