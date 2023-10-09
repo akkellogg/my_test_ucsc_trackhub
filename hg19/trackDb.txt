@@ -4,3 +4,4 @@ bigDataUrl https://github.com/akkellogg/my_test_ucsc_trackhub/raw/main/hg19/clin
 shortLabel ClinGen Recurrent CNVs
 longLabel ClinGene Recurrent CNV in bigBed format
 type bigBed 9
+itemRgb on
