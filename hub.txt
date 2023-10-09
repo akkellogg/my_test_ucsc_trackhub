@@ -1,0 +1,5 @@
+hub test_arup 
+shortLabel arup_testhub
+longLabel arup_testing_cnv_custom_track_hub
+genomesFile genomes.txt
+email anastasia.kellogg@aruplab.com
